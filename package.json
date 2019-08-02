@@ -1,0 +1,23 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "React App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maherelhabal/reactjs.git"
+  },
+  "author": "Maher Elhabal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maherelhabal/reactjs/issues"
+  },
+  "homepage": "https://github.com/maherelhabal/reactjs#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
